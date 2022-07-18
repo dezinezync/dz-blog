@@ -16,4 +16,4 @@ url: /2020/10/04/sunlits-credits-view.html
 ---
 Sunlit’s Credits view has a nice little easter egg. 🤩
 
-<img src="uploads/2020/5ed38b61ce.jpg" width="600" height="1299" alt="" style="height: auto;" class="sunlit_image" />
+<img src="/uploads/2020/5ed38b61ce.jpg" width="600" height="1299" alt="" style="height: auto;" class="sunlit_image" />

@@ -20,6 +20,6 @@ photos_with_metadata:
   height: 337
 url: /2020/09/30/izmir-from-the.html
 ---
-<img src="uploads/2020/e31a8e4e3c.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />
+<img src="/uploads/2020/e31a8e4e3c.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />
 
-<img src="uploads/2020/e9582e9a13.jpg" width="600" height="337" alt="" style="height: auto;" class="sunlit_image" />
+<img src="/uploads/2020/e9582e9a13.jpg" width="600" height="337" alt="" style="height: auto;" class="sunlit_image" />

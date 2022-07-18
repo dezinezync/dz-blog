@@ -18,4 +18,4 @@ url: /2019/12/16/the-bread-vendor.html
 ---
 The bread vendor and his orange tree. 
 
-<img src="uploads/2019/46a4728702.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2019/46a4728702.jpg" width="600" height="337" alt="" />

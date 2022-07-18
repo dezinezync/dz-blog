@@ -18,4 +18,4 @@ url: /2019/12/08/the-most-handsome.html
 ---
 The most handsome of my boys! Yes, I have a favorite. 
 
-<img src="uploads/2019/8e005cd001.jpg" width="337" height="600" alt="" />
+<img src="/uploads/2019/8e005cd001.jpg" width="337" height="600" alt="" />

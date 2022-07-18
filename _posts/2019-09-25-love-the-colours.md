@@ -16,4 +16,4 @@ url: /2019/09/25/love-the-colours.html
 ---
 Love the colours from the iPhone X. No reason to update to the 11 Pro yet. 😅
 
-<img src="uploads/2019/08141c9d15.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2019/08141c9d15.jpg" width="450" height="600" alt="" />

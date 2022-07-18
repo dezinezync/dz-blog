@@ -16,4 +16,4 @@ url: /2019/11/10/my-fiance-with.html
 ---
 My fiancée with [Anuj’s](https://twitter.com/anujdeshpandey) Dusky. She’s an absolute delight to be around and one of the first dogs I’ve met in recent times who is extremely well behaved without any training. 
 
-<img src="uploads/2019/66f4c0192e.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2019/66f4c0192e.jpg" width="450" height="600" alt="" />

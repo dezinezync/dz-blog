@@ -1,0 +1,15 @@
+---
+layout: {{ layout }}
+date: {{ date }}
+permalink: {{ title | downcase}}
+
+title: ""               # Empty quotes if this is a short.
+image:                  # /images/filename.jpg
+summary:                # A sentence or two about the post.
+category:               # "Oregon State University" (only one)
+tags:                   # newsletter
+sharing:                # Text to be shared on each network.
+  twitter: 
+  facebook: 
+  linkedin: 
+---

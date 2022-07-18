@@ -16,4 +16,4 @@ url: /2019/10/02/gorgeous-sunset-last.html
 ---
 Gorgeous sunset last evening. 
 
-<img src="uploads/2019/7f5eb6620b.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2019/7f5eb6620b.jpg" width="450" height="600" alt="" />

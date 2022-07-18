@@ -16,4 +16,4 @@ url: /2020/09/14/made-pulled-chicken.html
 ---
 Made pulled chicken for the first time last night. Turned out pretty well, would have preferred it to be a bit more hot. Added  jalapeños and habanero sauce on top to pack some extra heat.  🥪
 
-<img src="uploads/2020/27add77199.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />
+<img src="/uploads/2020/27add77199.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />

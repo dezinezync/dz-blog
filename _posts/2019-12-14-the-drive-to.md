@@ -18,4 +18,4 @@ url: /2019/12/14/the-drive-to.html
 ---
 The drive to and from the IST airport is gorgeous at sunset. You can spot these wind turbines all over the place. 
 
-<img src="uploads/2019/0b3a892c22.jpg" width="600" height="450" alt="" />
+<img src="/uploads/2019/0b3a892c22.jpg" width="600" height="450" alt="" />

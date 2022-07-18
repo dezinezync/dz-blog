@@ -16,4 +16,4 @@ url: /2021/11/28/made-some-pies.html
 ---
 Made some pies today for our neighbor and mum
 
-<img src="uploads/2021/49cc18a6bd.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2021/49cc18a6bd.jpg" width="450" height="600" alt="" />

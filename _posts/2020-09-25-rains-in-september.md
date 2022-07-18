@@ -16,4 +16,4 @@ url: /2020/09/25/rains-in-september.html
 ---
 Rains in September have become common since 2017. 
 
-<img src="uploads/2020/056264fc53.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />
+<img src="/uploads/2020/056264fc53.jpg" width="600" height="800" alt="" style="height: auto;" class="sunlit_image" />

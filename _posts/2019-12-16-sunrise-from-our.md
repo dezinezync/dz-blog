@@ -18,4 +18,4 @@ url: /2019/12/16/sunrise-from-our.html
 ---
 Sunrise from our hotel room in Antalya, Turkey. 
 
-<img src="uploads/2019/5b8e1c40c2.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2019/5b8e1c40c2.jpg" width="600" height="337" alt="" />

@@ -26,4 +26,4 @@ url: /2021/10/07/finally-managed-to.html
 ---
 Finally managed to get some good sushi and dumplings in chilli oil last night @ Mekong Folks
 
-<img src="uploads/2021/16264d368c.jpg" width="450" height="600" alt="" /><img src="uploads/2021/0a304c6548.jpg" width="600" height="450" alt="" /><img src="uploads/2021/e03676d2e9.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2021/16264d368c.jpg" width="450" height="600" alt="" /><img src="/uploads/2021/0a304c6548.jpg" width="600" height="450" alt="" /><img src="/uploads/2021/e03676d2e9.jpg" width="450" height="600" alt="" />

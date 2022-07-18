@@ -16,4 +16,4 @@ url: /2021/09/24/shot-on-iphone.html
 ---
 Shot on iPhone 12, standard rear camera. 4 RAW portrait images stitched in Photoshop and edited in Pixelmator Pro. 
 
-<img src="uploads/2021/3e5a5aa5e6.jpg" width="600" height="306" alt="" />
+<img src="/uploads/2021/3e5a5aa5e6.jpg" width="600" height="306" alt="" />

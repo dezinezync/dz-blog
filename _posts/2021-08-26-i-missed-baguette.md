@@ -18,4 +18,4 @@ I missed baguette sandwiches. Yesterday evening, I watched [Mark Weins](https://
 
 So today I went out (still feels weird typing that phrase) to buy groceries and found one! Thoroughly enjoyed it. 
 
-<img src="uploads/2021/1db8b141a4.jpg" width="450" height="600" alt="baguette sandwich with ham, burrata cheese, greens, pickle, mustard sauce and olive oil." />
+<img src="/uploads/2021/1db8b141a4.jpg" width="450" height="600" alt="baguette sandwich with ham, burrata cheese, greens, pickle, mustard sauce and olive oil." />

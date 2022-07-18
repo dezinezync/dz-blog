@@ -28,13 +28,13 @@ layout: default
         <a class="post-link" href="{{ post.url | relative_url }}">
           <span class="post-meta">{{ post.date | date: date_format }}</span>
         </a>
-        {%- if post.title != "" -%}
+        {% if post.title == "" or post.microblog == true %}
         {{ post.content }}
         {% else %}
-        <h3>{{ post.title | escape }}</h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <h3>{{ post.title | escape }}</h3>
+        </a>
+        {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}

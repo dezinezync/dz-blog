@@ -28,7 +28,7 @@ photos_with_metadata:
   height: 337
 url: /2022/04/18/apple-studio-display.html
 ---
-<img src="uploads/2022/c4d72e4706.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2022/c4d72e4706.jpg" width="600" height="337" alt="" />
 
 I received my Studio Display (Standard stand, standard glass) late Friday evening. Spent a good part of the weekend setting it all up, configuring all the required reference modes I would need. 
 
@@ -49,7 +49,7 @@ Yup, those 3 emojis pretty much sum up my feelings. Combined with the capability
 
 Did I mention it also works with Windows? And games look incredible on it. I'm most probably spending the upcoming weekend playing Forza. 
 
-<img src="uploads/2022/a06087a366.jpg" width="600" height="450" alt="" />
+<img src="/uploads/2022/a06087a366.jpg" width="600" height="450" alt="" />
 <br />
 
 #### The Stand
@@ -70,4 +70,4 @@ The Studio Display is built to last! Or atleast it feels like that. But I'm stil
 **4.5/5** ⭐️
 
 
-<img src="uploads/2022/c4d72e4706.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2022/c4d72e4706.jpg" width="600" height="337" alt="" />

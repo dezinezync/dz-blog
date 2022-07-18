@@ -18,4 +18,4 @@ url: /2019/12/17/aegean-sea-antalya.html
 ---
 Aegean Sea — Antalya, Turkey 
 
-<img src="uploads/2019/e120b54e9c.jpg" width="399" height="600" alt="" />
+<img src="/uploads/2019/e120b54e9c.jpg" width="399" height="600" alt="" />

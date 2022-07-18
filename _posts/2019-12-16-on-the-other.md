@@ -18,4 +18,4 @@ url: /2019/12/16/on-the-other.html
 ---
 On the other side of the room, we have the Çitdibi, Pointed Mountain National Park
 
-<img src="uploads/2019/3a99e8cd0c.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2019/3a99e8cd0c.jpg" width="600" height="337" alt="" />

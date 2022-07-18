@@ -18,4 +18,4 @@ I first started drinking coffee 12 years ago. Today, I finally found my favourit
 
 Hope you enjoy your favourite beverage as much as I’m going to now. ☕️ 
 
-<img src="uploads/2021/a441025b36.jpg" width="399" height="600" alt="" />
+<img src="/uploads/2021/a441025b36.jpg" width="399" height="600" alt="" />

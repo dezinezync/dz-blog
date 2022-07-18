@@ -64,7 +64,7 @@ const checkDirectory = async (dirPath = "") => {
 
 const checkFiles = async (filePaths = []) => {
   for (let filePath of filePaths) {
-    await checkFileContents(filePath);
+    await checkFile(filePath);
   }
 }
 

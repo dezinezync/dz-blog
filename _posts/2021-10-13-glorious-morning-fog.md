@@ -21,4 +21,4 @@ url: /2021/10/13/glorious-morning-fog.html
 ---
 Glorious morning fog today in Pune. 
 
-<img src="uploads/2021/344c17160f.jpg" width="600" height="337" alt="" /><img src="uploads/2021/bcd4ec8ac9.jpg" width="600" height="337" alt="" />
+<img src="/uploads/2021/344c17160f.jpg" width="600" height="337" alt="" /><img src="/uploads/2021/bcd4ec8ac9.jpg" width="600" height="337" alt="" />

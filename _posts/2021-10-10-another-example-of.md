@@ -18,4 +18,4 @@ Another example of the incredible new Macro feature from Halide on iOS.
 
 Shot on my iPhone 12. 
 
-<img src="uploads/2021/534b9d0018.jpg" width="600" height="450" alt="" />
+<img src="/uploads/2021/534b9d0018.jpg" width="600" height="450" alt="" />

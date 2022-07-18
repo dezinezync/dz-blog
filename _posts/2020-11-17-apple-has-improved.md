@@ -14,4 +14,4 @@ url: /2020/11/17/apple-has-improved.html
 ---
 Apple has improved the performance of the Navi10 GPUs under macOS Big Sur by a lot! Same hardware: 46% improvements in OpenCL and Metal is a huge jump. 
 
-<img src="uploads/2020/922ce82ac3.png" width="600" height="154" alt="" />
+<img src="/uploads/2020/922ce82ac3.png" width="600" height="154" alt="" />

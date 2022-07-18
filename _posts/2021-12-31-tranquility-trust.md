@@ -18,4 +18,4 @@ url: /2021/12/31/tranquility-trust.html
 ---
 Tranquility & Trust
 
-<img src="uploads/2021/f294ca8ba8.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2021/f294ca8ba8.jpg" width="450" height="600" alt="" />

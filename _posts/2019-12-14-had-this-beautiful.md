@@ -23,4 +23,4 @@ url: /2019/12/14/had-this-beautiful.html
 ---
 Had this beautiful effect on the airplane window glass on my way to Istanbul. 
 
-<img src="uploads/2019/aabec2650d.jpg" width="337" height="600" alt="" /><img src="uploads/2019/20c066e09c.jpg" width="337" height="600" alt="" />
+<img src="/uploads/2019/aabec2650d.jpg" width="337" height="600" alt="" /><img src="/uploads/2019/20c066e09c.jpg" width="337" height="600" alt="" />

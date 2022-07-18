@@ -21,4 +21,4 @@ url: /2019/11/07/these-two-seemingly.html
 ---
 These two seemingly uninteresting photos hold great significance for me. These are shot at sunset and the much softer sunset light signifies the starting of winter in my hometown. My favorite month is finally here. 
 
-<img src="uploads/2019/e1df164d4c.jpg" width="600" height="450" alt="" /><img src="uploads/2019/24feb9d6c5.jpg" width="600" height="450" alt="" />
+<img src="/uploads/2019/e1df164d4c.jpg" width="600" height="450" alt="" /><img src="/uploads/2019/24feb9d6c5.jpg" width="600" height="450" alt="" />

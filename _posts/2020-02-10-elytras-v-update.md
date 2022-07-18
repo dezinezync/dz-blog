@@ -16,4 +16,4 @@ url: /2020/02/10/elytras-v-update.html
 ---
 Elytra’s v1.6 update is now available on the AppStore. Triple Column layouts are a must for RSS Feed Readers these days 😅 [https://blog.elytra.app/2020/02/10/spring-2020-update/](https://blog.elytra.app/2020/02/10/spring-2020-update/) 
 
-<img src="uploads/2020/51014c1c13.jpg" width="600" height="450" alt="" />
+<img src="/uploads/2020/51014c1c13.jpg" width="600" height="450" alt="" />

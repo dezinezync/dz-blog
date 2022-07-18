@@ -18,4 +18,4 @@ I'm ready for the holiday season. The weather is finally cooling down a bit whic
 
 Or it could be chocolate. Either way, worth it. 
 
-<img src="uploads/2021/16a71e4ba0.jpg" width="450" height="600" alt="" />
+<img src="/uploads/2021/16a71e4ba0.jpg" width="450" height="600" alt="" />

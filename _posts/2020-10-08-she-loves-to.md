@@ -16,4 +16,4 @@ url: /2020/10/08/she-loves-to.html
 ---
 She loves to work in mood lighting. Today I resisted the urge to just jump into bed (the lighting!) and take a quick snap. 
 
-<img src="uploads/2020/1c894b9d40.jpg" width="600" height="337" alt="Photo of my wife while she works at her desk." />
+<img src="/uploads/2020/1c894b9d40.jpg" width="600" height="337" alt="Photo of my wife while she works at her desk." />

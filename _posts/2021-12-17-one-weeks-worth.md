@@ -17,4 +17,4 @@ One week's worth of thermal data from using the MacBook Pro 14". Not bad at all.
 
 I'm looking forward to testing this again in the Indian summer 😄
 
-<img src="uploads/2021/f26f5acd66.png" alt="Screenshot 2021 12 17 at 7 16 18 PM" title="Screenshot 2021-12-17 at 7.16.18 PM.png" border="0" width="646" height="546" />
+<img src="/uploads/2021/f26f5acd66.png" alt="Screenshot 2021 12 17 at 7 16 18 PM" title="Screenshot 2021-12-17 at 7.16.18 PM.png" border="0" width="646" height="546" />
