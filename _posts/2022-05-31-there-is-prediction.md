@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 microblog: true
 guid: http://dezinezync.micro.blog/2022/05/31/there-is-prediction.html
 date: 2022-05-31T18:30:25+0530
