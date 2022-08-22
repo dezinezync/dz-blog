@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+{% if page.title == "" or page.microblog == true %}
+<span class="post-meta">{{ page.date | date: date_format }}</span>
+{{ content }}
+{% else %}
+<h3 class="page-title">{{ page.title | escape }}</h3>
+<span class="post-meta">{{ page.date | date: date_format }}</span>
+{{ content }}
+{%- endif -%}

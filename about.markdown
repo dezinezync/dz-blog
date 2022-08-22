@@ -8,8 +8,6 @@ Hi, my name is Nikhil. I create apps like [Elytra](https://elytra.app), Pockity 
 
 I also publish videos about things that facsinate me on [Objective Reviews](https://youtube.com/c/objrevs).
 
-This is my [micro.blog](https://micro.blog/dezinezync).
-
 ### Work
 
 - 2009 - Present: **Dezine Zync**: Founder, Lead Engineer & Designer 

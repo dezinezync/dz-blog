@@ -26,9 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dezinezync
 github_username:  dezinezync
+dribbble_username: dezinezync
+rss: feed
+
+remote_theme: dezinezync/dezinezync-theme
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 repository: "dezinezync/dz-blog"
 plugins:
   - jekyll-feed
@@ -36,6 +39,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -44,13 +48,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache  
+  - jekyll-remote-theme
 
 paginate: 10
-
-# Theme Settings
-minimal_mistakes_skin    : "air"
-locale                   : "en-IN"
-search                   : true
 
 # Reading Files
 include:
@@ -89,14 +89,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -108,7 +106,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Sass/SCSS
 sass:
