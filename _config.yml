@@ -115,8 +115,8 @@ sass:
 
 
 # Outputting
-permalink: /:year/:month/:day/:title/
-paginate: 5 # amount of posts to show
+permalink: /:year/:month/:day/:title
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 
 # Archives
