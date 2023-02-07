@@ -18,7 +18,7 @@ My wife got herself buttermilk pancakes:
 ![buttermilk pancackes, served with whipped cream, honey and berry jam](/uploads/2023/IMG_0467.jpg)
 
 And I got the Eggs benedict 
-![eggs benedict, served with ham on an English muffin](/uploads/2023/IMG_0468.jpg)
+![eggs benedict, served with ham on an English muffin](/uploads/2023/IMG_0469.jpg)
 
 I haven't seen either of these being offered as an option even at the most upscale hotels in Pune, but a business hotel outside of Pune has these, and they nailed both of it. 
 
