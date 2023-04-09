@@ -30,6 +30,7 @@ github_username:  dezinezync
 # Build settings
 plugins:
   - github-pages
+  - jekyll-paginate
 
 remote_theme: dezinezync/launchkit
 
@@ -38,6 +39,7 @@ permalink: /:year/:month/:day/:title
 include: ['_pages', 'blog']  
 
 paginate: 10
+paginate_path: "/page:num/"
 
 defaults:
 - scope:
