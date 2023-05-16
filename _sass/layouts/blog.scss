@@ -38,6 +38,7 @@ article {
     max-width: 100vw;
     display: flex;
     justify-content: center;
+    margin: 2rem 0 1rem;
 
     img {
       width: auto;
@@ -91,4 +92,11 @@ img.fit-height ~ p {
   margin-bottom: 1rem;
 
   a { font-weight: 500; }
+}
+
+@media only screen and (max-width: 1065px) {
+  article #post-banner img {
+    max-width: 100vw;
+    height: auto;
+  }
 }
