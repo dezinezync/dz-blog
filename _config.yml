@@ -21,7 +21,7 @@
 title: Dezine Zync
 email: nikhil@dezinezync.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal blog
+  The personal website & blog of Nikhil Nigade
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dezinezync
@@ -36,10 +36,10 @@ remote_theme: dezinezync/launchkit
 
 permalink: /:year/:month/:day/:title
 
-include: ['_pages', 'blog']  
+include: ['_pages']  
 
 paginate: 10
-paginate_path: "/page:num/"
+paginate_path: "/blog/page:num/"
 
 defaults:
 - scope:
@@ -59,4 +59,4 @@ defaults:
     layout: post
 
 # Theme Settings
-caption: Simple personal budgeting and expense tracking
+caption: The personal website & blog of Nikhil Nigade

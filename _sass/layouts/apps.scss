@@ -1,0 +1,29 @@
+#my-apps {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+
+  > div {
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background-color: color-mix(in hsl longer hue, ButtonFace 20%, Canvas);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    picture img {
+      max-width: 100%;
+      height: auto;
+      aspect-ratio: 1/1;
+      margin: auto;
+    }
+  }
+}

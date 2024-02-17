@@ -4,36 +4,32 @@
 <body class="{% if page.style %}{{ page.style }}{% endif %} blog">
   {%- include header.html -%}
   <main class="container readable">
-    {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in paginator.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | absolute_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <small class="post-meta">{{ post.date | date: date_format }}</small>
-        {{ post.excerpt }}
-      </li>
-      {%- endfor -%}
-    </ul>
-    <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-      {% endif %}
-      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-      {% endif %}
+    <h3>My Apps</h3>
+    <div class="grid" id="my-apps">
+      <div>
+        <a href="https://elytra.app" title="Elytra">
+          <picture>
+            <img src="https://elytra.app/assets/images/home/appicon.png" srcset="https://elytra.app/assets/images/home/appicon@2x.png 2x">
+          </picture>
+        </a>
+      </div>
+      <div>
+        <a href="https://pockity.app" title="Pockity">
+          <picture>
+            <img src="https://pockity.app/assets/images/home/appicon.png" srcset="https://pockity.app/assets/images/home/appicon@2x.png 2x">
+            <source media="(max-width: 600px)" srcset="https://pockity.app/assets/images/home/appicon-half.png 1x, https://pockity.app/assets/images/home/appicon.png 2x">
+          </picture>
+        </a>
+      </div>
+      <div>
+        <a href="https://incise.app" title="Pockity">
+          <picture>
+            
+          </picture>
+        </a>
+      </div>
     </div>
   </main>
-  {%- endif -%}
-  <div class="container readable" id="blog-footer-rss">
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  </div>
   <div class="container readable">
     {%- include footer.html -%}
   </div>
