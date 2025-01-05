@@ -68,6 +68,12 @@ article {
   li p {
     margin-bottom: 0;
   }
+
+  blockquote {
+    margin-block: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
 }
 
 .page-post-content {
