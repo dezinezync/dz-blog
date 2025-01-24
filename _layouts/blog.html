@@ -9,7 +9,7 @@
       {%- for post in paginator.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
+        <h3 style="--name:blog{{ post.url | relative_url | replace: "/", "-" }}">
           <a class="post-link" href="{{ post.url | absolute_url }}">
             {{ post.title | escape }}
           </a>
