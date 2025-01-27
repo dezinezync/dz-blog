@@ -101,6 +101,10 @@ article {
   h4 { font-size: 1.6rem; }
   h5 { font-size: 1.5rem; }
   h6 { font-size: 1.4rem; }
+
+  p + p {
+    margin-top: 1rem;
+  }
 }
 
 .page-post-content {
