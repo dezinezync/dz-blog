@@ -5,7 +5,7 @@
   {%- include header.html -%}
   <main class="container readable">
     <h3>My Apps</h3>
-    <div class="grid" id="my-apps">
+    <!--<div class="grid" id="my-apps">
       <div>
         <a href="https://elytra.app" title="Elytra">
           <picture>
@@ -29,6 +29,67 @@
           </picture>
         </a>
       </div>
+    </div>-->
+    <div id="my-work">
+      <div id="elytra">
+        <hgroup>
+          <h4><a href="https://elytra.app" target="_blank">Elytra</a></h4>
+          <h5>Simple, Private, RSS Feed Reader</h5>
+          <p>Elytra features native text, image, and video rendering, stripping away tracking code from articles and image for a safe & private reading environment.</p> 
+        </hgroup>
+        <picture id="elytra-home-hero">
+          <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://elytra.app/assets/images/home/screens-400w.png 1x, https://elytra.app/assets/images/home/screens-800w.png 2x, https://elytra.app/assets/images/home/screens-1600w.png 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: light)" srcset="https://elytra.app/assets/images/home/hero-800w.png 1x, https://elytra.app/assets/images/home/screens-1600w.png 2x, https://elytra.app/assets/images/home/screens@3x.png 3x">
+          <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://elytra.app/assets/images/home/screens-dark-400w.png 1x, https://elytra.app/assets/images/home/screens-dark-800w.png 2x, https://elytra.app/assets/images/home/screens-dark@2x.png 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://elytra.app/assets/images/home/screens-dark-800w.png 1x, https://elytra.app/assets/images/home/screens-dark@2x.png 2x">
+          <source media="(prefers-color-scheme: dark)" srcset="https://elytra.app/assets/images/home/hero-dark.png 1x, https://elytra.app/assets/images/home/screens-dark@2x.png 2x, https://elytra.app/assets/images/home/screens-dark@3x.png 3x">
+          <img src="https://elytra.app/assets/images/home/screens.png" srcset="https://elytra.app/assets/images/home/screens@2x.png 2x, https://elytra.app/assets/images/home/screens@3x.png 3x" width="1514" height="533" alt="Elytra's timeline and article reader displayed on iPad, iPhone and macOS." loading="lazy">
+        </picture>
+      </div>
+      <div id="pockity">
+        <hgroup>
+          <h4><a href="https://pockity.app" target="_blank">Pockity</a></h4>
+          <h5>Personal budgeting. Expense tracking. Simple & Private.</h5>
+          <p>A simple and private budget & expense tracking app for iOS, watchOS, and macOS. A simple utility that evolves into a powerful reporting tool featuring Natural Language Processing, Apple Intelligence, and more…</p> 
+        </hgroup>
+        <picture id="pockity-ios-hero">
+          <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://pockity.app/assets/images/ios/hero-400w.webp 1x, https://pockity.app/assets/images/ios/hero-800w.webp 2x, https://pockity.app/assets/images/ios/hero-1600w.webp 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: light)" srcset="https://pockity.app/assets/images/ios/hero-800w.webp 1x, https://pockity.app/assets/images/ios/hero-1600w.webp 2x, https://pockity.app/assets/images/ios/hero@3x.webp 3x">
+          <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/ios/hero-dark-400w.webp 1x, https://pockity.app/assets/images/ios/hero-dark-800w.webp 2x, https://pockity.app/assets/images/ios/hero-dark@2x.webp 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/ios/hero-dark-800w.webp 1x, https://pockity.app/assets/images/ios/hero-dark@2x.webp 2x">
+          <source media="(prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/ios/hero-dark.webp 1x, https://pockity.app/assets/images/ios/hero-dark@2x.webp 2x, https://pockity.app/assets/images/ios/hero-dark@3x.webp 3x">
+          <img loading="lazy" src="https://pockity.app/assets/images/ios/hero.webp" srcset="https://pockity.app/assets/images/ios/hero@2x.webp 2x, https://pockity.app/assets/images/ios/hero@3x.webp 3x" width="1281" height="566" alt="Pockity's ledger timeline displayed on an iPad Pro 12.9 inches and iPhone 16 Pro, watchOS interface, and a shared ledger timeline on iPhone 16 Pro">
+        </picture>
+        <picture id="pockity-macos-hero">
+          <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://pockity.app/assets/images/macos/hero-400w.png 1x, https://pockity.app/assets/images/macos/hero-800w.png 2x, https://pockity.app/assets/images/macos/hero-1600w.png 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: light)" srcset="https://pockity.app/assets/images/macos/hero-800w.png 1x, https://pockity.app/assets/images/macos/hero-1600w.png 2x, https://pockity.app/assets/images/macos/hero@3x.png 3x">
+          <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/macos/hero-dark-400w.png 1x, https://pockity.app/assets/images/macos/hero-dark-800w.png 2x, https://pockity.app/assets/images/macos/hero-dark@2x.png 3x">
+          <source media="(min-width: 601px) and (max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/macos/hero-dark-800w.png 1x, https://pockity.app/assets/images/macos/hero-dark@2x.png 2x">
+          <source media="(prefers-color-scheme: dark)" srcset="https://pockity.app/assets/images/macos/hero-dark.png 1x, https://pockity.app/assets/images/macos/hero-dark@2x.png 2x, https://pockity.app/assets/images/macos/hero-dark@3x.png 3x">
+          <img loading="lazy" src="https://pockity.app/assets/images/macos/hero.png" srcset="https://pockity.app/assets/images/macos/hero@2x.png 2x, https://pockity.app/assets/images/macos/hero@3x.png 3x" width="1393" height="636" alt="Left to right: Pockity's categories grid, a relaxed timeline of expenses, incomes, and transfers, and lastly a grid of recurring items">
+        </picture>
+        <picture id="pockity-widgets">
+          <source media="(max-width: 600px)" srcset="https://pockity.app/assets/images/home/widgets-400w.webp 1x, https://pockity.app/assets/images/home/widgets-800w.webp 2x, https://pockity.app/assets/images/home/widgets-1600w.webp 3x">
+          <source media="(min-width: 601px) and (max-width: 800px)" srcset="https://pockity.app/assets/images/home/widgets-800w.webp 1x, https://pockity.app/assets/images/home/widgets-1600w.webp 2x, https://pockity.app/assets/images/home/widgets@3x.webp 3x">
+          <img loading="lazy" src="https://pockity.app/assets/images/home/widgets.webp" srcset="https://pockity.app/assets/images/home/widgets@2x.webp 2x, https://pockity.app/assets/images/home/widgets@3x.webp 3x" width="1105" height="382" alt="Pockity's widgets: Income, Transfers, Expeneses (Leisure), and Lockscreen widgets">
+        </picture>
+      </div>
+      <div id="incise">
+        <hgroup>
+          <h4><a href="https://incise.app/about" target="_blank">Incise</a></h4>
+          <h5>Creative Network for Designers, Artists and creatives.</h5>
+          <p>A federated network for designers to showcase their work, find new work, supporting ActivityPub.</p> 
+        </hgroup>
+      </div>
+    </div><!--my-work-->
+    <div id="find-me">
+      <h4>You can also find me on</h4>
+      <ul>
+        <li><a href="https://incise.app/@dezinezync" target="_blank">Incise</a></li>
+        <li><a href="https://social.dezinezync.com/@nikhil" target="_blank">Mastodon</a></li>
+        <li><a href="https://github.com/dezinezync" target="_blank">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/nikhil-nigade-4a395b358/" target="_blank">LinkedIn</a></li>
+      </ul>
     </div>
   </main>
   <div class="container readable">

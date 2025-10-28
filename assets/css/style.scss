@@ -171,5 +171,20 @@ nav {
   }
 }
 
+@media only screen and (max-width: 480px) {
+  body.blog header .container {
+    flex-direction: column;
+
+    hgroup {
+      margin-block-end: 0;
+    }
+
+    nav {
+      margin-left: 0;
+      margin-right: unset;
+    }
+  }
+}
+
 @import "layouts/blog";
 @import "layouts/apps";
