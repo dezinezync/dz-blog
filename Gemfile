@@ -1,24 +1,29 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 3.9.3"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+# --- Ruby 3.2+ Compatibility Patch for Jekyll/Liquid ---
+# The 'tainted?' method was removed in Ruby 3.2, but Liquid 4.0.x still calls it.
+if RUBY_VERSION >= '3.2'
+  module TaintCompatibility
+    def tainted?; false; end
+    def taint; self; end
+    def untaint; self; end
+  end
+  [Object, String, Symbol, Array, Hash].each { |klass| klass.include(TaintCompatibility) }
 end
+# --------------------------------------------------------
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# Use the GitHub Pages gem to manage Jekyll and its plugins
+gem "github-pages", group: :jekyll_plugins
+
+# Required for Ruby 3.0+ as they were removed from the standard library
+gem "webrick", "~> 1.8"
+gem "csv"
+gem "json"
+gem "base64"
+gem "bigdecimal"
+gem "mutex_m"
+
+# Windows and JRuby compatibility
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
@@ -26,16 +31,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
-# Adds support for locally building the site 
-# gem "jekyll-local-theme"
-
-gem 'github-pages', group: :jekyll_plugins
-
-gem "webrick", "~> 1.8"
-
-gem 'jekyll-paginate', group: :jekyll_plugins

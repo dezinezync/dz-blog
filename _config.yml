@@ -32,8 +32,6 @@ plugins:
   - github-pages
   - jekyll-paginate
 
-remote_theme: dezinezync/launchkit
-
 permalink: /:year/:month/:day/:title
 
 include: ['_pages']  
